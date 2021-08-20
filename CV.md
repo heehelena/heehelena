@@ -15,3 +15,6 @@ Bachelor of Economics, Sejong University, 2014
 ### Projects
 
 ### Course
+
+### Contact
+
